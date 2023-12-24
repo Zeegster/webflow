@@ -3002,10 +3002,10 @@
 
 .hero-heading-left-2 {
   background-color: #f5f7fa;
-  border-bottom: 1px solid #e4ebf3;
+  border-bottom: 1кpx solid #e4ebf3;
   flex-direction: column;
   padding: 30px;
-  display: block;
+  display: none;
   position: relative;
 }
 
