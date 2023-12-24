@@ -3005,7 +3005,7 @@
   border-bottom: 1кpx solid #e4ebf3;
   flex-direction: column;
   padding: 30px;
-  display: none;
+  display: block;
   position: relative;
 }
 
